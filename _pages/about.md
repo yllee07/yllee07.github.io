@@ -16,6 +16,7 @@ redirect_from:
   </div>
 </div>
 
+
 I am interested in **geometric analysis**, **harmonic analysis**, and the areas where they meet **partial differential equations**, **geometry**, and **number theory**.
 
 I have been working on a series of expository projects aimed at making modern mathematical developments more accessible.
