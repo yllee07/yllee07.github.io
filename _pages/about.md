@@ -34,8 +34,4 @@ I have been working on a series of expository projects aimed at making modern ma
 - *Complete Solutions to IMO 2026 Problems* — full solutions to all six problems. [PDF](/files/2026_IMO_Solution__Y__Lee_.pdf)
 - *Exercise Solutions to Evans' PDE* — complete solutions to all exercises in Evans's *Partial Differential Equations*.
 
-## Contact
-
-- Email: yulelee07@163.com
-- ORCID: [0000-000X-XXXX-XXXX](https://orcid.org/0000-000X-XXXX-XXXX)
-- GitHub: [yllee07](https://github.com/yllee07)
+#(https://github.com/yllee07)
