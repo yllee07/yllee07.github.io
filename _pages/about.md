@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <div style="overflow: auto; margin-top: 20px; padding: 15px; background: #f5f5f5; border-radius: 8px;">
-  <img src="Screenshot_2026-07-21-03-55-08-17.jpg" alt="Yule Lee" style="width: 140px; float: left; margin-right: 20px; border-radius: 8px;">
+  <img src="Screenshot_2026-07-21-03-55-08-17.jpg" alt>
   <div style="overflow: hidden;">
     Email: yulelee07@163.com<br>
     ORCID: 0009-0004-0701-5616<br>
@@ -33,5 +33,3 @@ I have been working on a series of expository projects aimed at making modern ma
 - *Notes on Modern Algebra* — from group theory through category theory, commutative algebra, and homological algebra.
 - *Complete Solutions to IMO 2026 Problems* — full solutions to all six problems. [PDF](/files/2026_IMO_Solution__Y__Lee_.pdf)
 - *Exercise Solutions to Evans' PDE* — complete solutions to all exercises in Evans's *Partial Differential Equations*.
-
-#(https://github.com/yllee07)
