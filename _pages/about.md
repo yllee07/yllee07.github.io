@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <div style="overflow: auto; margin-top: 20px; padding: 15px; background: #f5f5f5; border-radius: 8px;">
-  <img src="/images/Screenshot_2026-07-21-03-55-08-17.jpg" alt="Yule Lee" style="width: 140px; float: left; margin-right: 20px; border-radius: 8px;">
+  <img src="/images/IMG_20260721_121037.jpg" alt="Yule Lee" style="width: 140px; float: left; margin-right: 20px; border-radius: 8px;">
   <div style="overflow: hidden;">
     Email: yulelee07@163.com<br>
     ORCID: 0009-0004-0701-5616<br>
