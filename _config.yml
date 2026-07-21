@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Yule Lee"
+title                    : "Yule Lee's Math Studio"
 title_separator          : "-"
 name                     : &name "Yule Lee"
 description              : &description "Mathematics"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "/Screenshot_2026-07-21-03-14-30-60.jpg"
   name             : "Yule Lee"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Fundamental mathematics‌"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
