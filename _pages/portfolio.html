@@ -1,6 +1,108 @@
 ---
-title: Test
+title: Portfolio
 permalink: /portfolio/
+layout: collection
+collection: portfolio
+entries_layout: grid
+classes: wide
 ---
 
-Hello World
+## Analysis
+
+### Harmonic Analysis
+
+{% assign items = site.portfolio | where: "tags", "harmonic-analysis" %}
+{% for item in items %}
+- [{{ item.title }}]({{ item.url }}) — {{ item.excerpt }}
+{% endfor %}
+
+### Partial Differential Equations
+
+{% assign items = site.portfolio | where: "tags", "pde" %}
+{% for item in items %}
+- [{{ item.title }}]({{ item.url }}) — {{ item.excerpt }}
+{% endfor %}
+
+---
+
+## Algebra
+
+### Category Theory
+
+{% assign items = site.portfolio | where: "tags", "category-theory" %}
+{% for item in items %}
+- [{{ item.title }}]({{ item.url }}) — {{ item.excerpt }}
+{% endfor %}
+
+### Commutative Algebra
+
+{% assign items = site.portfolio | where: "tags", "commutative-algebra" %}
+{% for item in items %}
+- [{{ item.title }}]({{ item.url }}) — {{ item.excerpt }}
+{% endfor %}
+
+### Homological Algebra
+
+{% assign items = site.portfolio | where: "tags", "homological-algebra" %}
+{% for item in items %}
+- [{{ item.title }}]({{ item.url }}) — {{ item.excerpt }}
+{% endfor %}
+
+---
+
+## Geometry
+
+### Geometric Analysis
+
+{% assign items = site.portfolio | where: "tags", "geometric-analysis" %}
+{% for item in items %}
+- [{{ item.title }}]({{ item.url }}) — {{ item.excerpt }}
+{% endfor %}
+
+### Algebraic Geometry
+
+{% assign items = site.portfolio | where: "tags", "algebraic-geometry" %}
+{% for item in items %}
+- [{{ item.title }}]({{ item.url }}) — {{ item.excerpt }}
+{% endfor %}
+
+### Complex Geometry
+
+{% assign items = site.portfolio | where: "tags", "complex-geometry" %}
+{% for item in items %}
+- [{{ item.title }}]({{ item.url }}) — {{ item.excerpt }}
+{% endfor %}
+
+---
+
+## Number Theory
+
+### Algebraic Number Theory
+
+{% assign items = site.portfolio | where: "tags", "algebraic-number-theory" %}
+{% for item in items %}
+- [{{ item.title }}]({{ item.url }}) — {{ item.excerpt }}
+{% endfor %}
+
+### Analytic Number Theory
+
+{% assign items = site.portfolio | where: "tags", "analytic-number-theory" %}
+{% for item in items %}
+- [{{ item.title }}]({{ item.url }}) — {{ item.excerpt }}
+{% endfor %}
+
+### Arithmetic Geometry
+
+{% assign items = site.portfolio | where: "tags", "arithmetic-geometry" %}
+{% for item in items %}
+- [{{ item.title }}]({{ item.url }}) — {{ item.excerpt }}
+{% endfor %}
+
+---
+
+## Mathematical Olympiad
+
+{% assign items = site.portfolio | where: "tags", "olympiad" %}
+{% for item in items %}
+- [{{ item.title }}]({{ item.url }}) — {{ item.excerpt }}
+{% endfor %}
