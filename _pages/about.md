@@ -6,15 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="overflow: auto; margin-top: 20px; padding: 15px; background: #f5f5f5; border-radius: 8px;">
-  <img src="/images/IMG_20260721_121037.jpg" alt="Yule Lee" style="width: 140px; float: left; margin-right: 20px; border-radius: 8px;">
-  <div style="overflow: hidden;">
+
+<div style="overflow: auto; margin-top: 0; margin-bottom: 15px;">
+  <img src="images/IMG_20260721_121037.jpg" alt="Yule Lee" style="width: 100px; float: left; margin-right: 14px; border-radius: 6px;">
+  <div style="overflow: hidden; font-size: 14px; line-height: 1.6;">
+    <strong style="font-size: 16px;">Yule Lee</strong><br>
     Email: yulelee07@163.com<br>
     ORCID: 0009-0004-0701-5616<br>
     GitHub: <a href="https://github.com/yllee07">yllee07</a>
   </div>
 </div>
-
 ---
 I am interested in **geometric analysis**, **harmonic analysis**, and the areas where they meet **partial differential equations**, **geometry**, and **number theory**.
 
