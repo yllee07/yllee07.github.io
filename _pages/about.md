@@ -9,7 +9,7 @@ redirect_from:
 
 <div style="overflow: auto; margin-top: 0; margin-bottom: 15px;">
   <img src="/images/IMG_20260721_121037.jpg" alt="Yule Lee" style="width: 100px; float: left; margin-right: 14px; border-radius: 6px;">
-  <div style="overflow: hidden; font-size: 14px; line-height: 1.6;">
+  <div style="overflow: hidden; font-size: 14px; line-height: 1.9;">
     <strong style="font-size: 16px;">Yule Lee</strong><br>
     Email: yulelee07@163.com<br>
     ORCID: 0009-0004-0701-5616<br>
