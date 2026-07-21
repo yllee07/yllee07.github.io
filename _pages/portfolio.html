@@ -54,13 +54,3 @@ classes: wide
 {% for item in olympiad_items %}
 - [{{ item.title }}]({{ item.url }}) — {{ item.excerpt }}
 {% endfor %}
-
----
-
-## Other / Miscellaneous
-
-{% assign other_items = site.portfolio | where_exp: "item", "item.tags contains 'miscellaneous' or item.tags contains 'other'" %}
-
-{% for item in other_items %}
-- [{{ item.title }}]({{ item.url }}) — {{ item.excerpt }}
-{% endfor %}
