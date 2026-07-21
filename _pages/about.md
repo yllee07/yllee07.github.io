@@ -19,7 +19,7 @@ redirect_from:
 </div>
 
 ---
-I am interested in **geometric analysis**, **harmonic analysis**, and the areas where they meet **partial differential equations**, **geometry**, and **number theory**. I have been working on a series of expository projects aimed at making modern mathematical developments more accessible.
+Welcome to my studio. I have been engaged in a series of constructive work in fundamental mathematics, aimed at facilitating a systematic understanding of mathematical developments. My research interests span multiple domains, including analysis, geometry, algebra, and number theory.
 
 ## Current Projects
 
