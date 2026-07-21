@@ -1,56 +1,9 @@
 ---
 title: Portfolio
-permalink: /portfolio/
 layout: collection
 collection: portfolio
 entries_layout: grid
 classes: wide
 ---
 
-## Analysis
-
-{% assign analysis_items = site.portfolio | where_exp: "item", "item.tags contains 'analysis' or item.tags contains 'harmonic-analysis' or item.tags contains 'pde' or item.tags contains 'geometric-analysis'" %}
-
-{% for item in analysis_items %}
-- [{{ item.title }}]({{ item.url }}) — {{ item.excerpt }}
-{% endfor %}
-
----
-
-## Algebra
-
-{% assign algebra_items = site.portfolio | where_exp: "item", "item.tags contains 'algebra' or item.tags contains 'category-theory' or item.tags contains 'commutative-algebra' or item.tags contains 'homological-algebra'" %}
-
-{% for item in algebra_items %}
-- [{{ item.title }}]({{ item.url }}) — {{ item.excerpt }}
-{% endfor %}
-
----
-
-## Geometry
-
-{% assign geometry_items = site.portfolio | where_exp: "item", "item.tags contains 'geometry' or item.tags contains 'algebraic-geometry' or item.tags contains 'complex-geometry' or item.tags contains 'geometric-analysis'" %}
-
-{% for item in geometry_items %}
-- [{{ item.title }}]({{ item.url }}) — {{ item.excerpt }}
-{% endfor %}
-
----
-
-## Number Theory
-
-{% assign number_theory_items = site.portfolio | where_exp: "item", "item.tags contains 'number-theory' or item.tags contains 'algebraic-number-theory' or item.tags contains 'arithmetic-geometry' or item.tags contains 'modular-forms'" %}
-
-{% for item in number_theory_items %}
-- [{{ item.title }}]({{ item.url }}) — {{ item.excerpt }}
-{% endfor %}
-
----
-
-## Mathematical Olympiad
-
-{% assign olympiad_items = site.portfolio | where_exp: "item", "item.tags contains 'olympiad' or item.tags contains 'problem-solving'" %}
-
-{% for item in olympiad_items %}
-- [{{ item.title }}]({{ item.url }}) — {{ item.excerpt }}
-{% endfor %}
+I am a test. Please show up.
