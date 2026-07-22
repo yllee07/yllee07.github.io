@@ -32,5 +32,3 @@ Welcome to my studio. I have been engaged in a series of constructive work in fu
 - *Fermat's Last Theorem: A Detailed Exposition* — a self-contained reconstruction of Wiles's proof, from algebraic number theory to modular forms.
 - *The Weil Conjectures* — an introduction to the algebraic geometry underlying the Weil conjectures.
 - *Notes on Modern Algebra* — from group theory through category theory, commutative algebra, and homological algebra.
-- *Complete Solutions to IMO 2026 Problems* — full solutions to all six problems. [PDF](/files/2026_IMO_Solution__Y__Lee_.pdf)
-- *Exercise Solutions to Evans' PDE* — complete solutions to all exercises in Evans's *Partial Differential Equations*.
