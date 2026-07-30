@@ -9,7 +9,7 @@ author_profile: true
 
 <hr>
 
-<h2>基础理论</h2>
+<h2>Basic Theory</h2>
 
 <ul>
   <li>
@@ -28,7 +28,7 @@ author_profile: true
 
 <hr>
 
-<h2>岩泽理论</h2>
+<h2>Iwasawa Theory</h2>
 
 <ul>
   <li>
@@ -51,7 +51,7 @@ author_profile: true
 
 <hr>
 
-<h2>费马大定理</h2>
+<h2>Fermat's Last Theorem</h2>
 
 <ul>
   <li>
