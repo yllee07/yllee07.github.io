@@ -37,3 +37,8 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* 强制主页头像变成正方形 */
+.profile img, .avatar {
+    border-radius: 0 !important;
+}
