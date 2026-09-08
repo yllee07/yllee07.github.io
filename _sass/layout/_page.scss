@@ -399,3 +399,8 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/* 强制主页头像变成正方形 */
+.profile img, .avatar {
+    border-radius: 0 !important;
+}
